@@ -25,7 +25,7 @@ Clone	A local copy of the remote Git repository on the computer.
 ## SSH Protocol - 	A method for secure remote login from one computer to another.
 ## Version control -	A system that allows you to keep track of changes to your documents. This process allows you to recover older versions of the documents if any mistakes are made.
 ## Working directory -	A directory in your file system that contains files and subdirectories on your computer that are associated with a Git repository.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Le tableau suivant présente différentes commandes Git :
 
 git init
